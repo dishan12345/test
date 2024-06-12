@@ -1,0 +1,1 @@
+<button onclick="window.location.href='page1.html'">Click Me!</button>
